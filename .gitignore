@@ -1,0 +1,8 @@
+# Ignore csv
+csv/
+# Ignore pkl
+pkl/
+
+# Ignore aux notebooks
+task1.ipynb
+task2.ipynb
